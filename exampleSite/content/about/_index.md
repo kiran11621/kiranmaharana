@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2019-10-29T13:49:23.000+06:00
-image: ''
+image: "/uploads/pp.jpg"
 description: 'In the current turmoil state and ongoing chaos in politics with propaganda
   and manipulative media, I wanted to give a vision to people through statistics and
   data where people can build their view and understand not just with authors words

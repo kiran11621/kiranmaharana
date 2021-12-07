@@ -6,6 +6,7 @@ description: 'In the current turmoil state and ongoing chaos in politics with pr
   and manipulative media, I wanted to give a vision to people through statistics and
   data where people can build their view and understand not just with authors words
   but through actual ground figures. '
+draft: true
 
 ---
 Computer science has revolutionized and reshaped how our species has socially and economically developed over the past century. Despite an ever-widening field of computer science for the 21st-century student, I feel it is undoubtedly the most influential and concrete foundation of the society we live in today. 

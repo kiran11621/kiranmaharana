@@ -24,3 +24,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- exampleSite/content/blog/coding-marshals-competitive-programming-educational-gamification.md

@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-23T18:30:00Z
 description = "For students who enjoy programming and  programming competitions, learning all the basic  algorithms takes some time; on the other hand,  competitive environments can be introduced right from the beginning as a pedagogical tool."
-draft = true
 image = "/uploads/how-to-prepare-for-competitive-programming.png"
 tags = ["Online Judges", "Educational  Gamification", "Competitive Programming", "Collaborative Learning", "Peer-to-Peer Learning"]
 title = "Coding Marshals – Competitive Programming Educational Gamification."
